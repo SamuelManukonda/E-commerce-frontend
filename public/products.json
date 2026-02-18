@@ -1,0 +1,362 @@
+[ {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 79.99,
+    "image": "https://picsum.photos/seed/product1/600/600",
+    "description": "Noise cancelling over-ear wireless headphones.",
+    "category": "Electronics",
+    "specs": "Bluetooth 5.0, 30h battery, Built-in mic"
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Watch",
+    "price": 129.99,
+    "image": "https://picsum.photos/seed/product2/600/600",
+    "description": "Track your fitness and daily activity.",
+    "category": "Electronics",
+    "specs": "Heart Rate Monitor, GPS, Waterproof"
+  },
+  {
+    "id": 3,
+    "name": "Men's Casual Sneakers",
+    "price": 59.99,
+    "image": "https://picsum.photos/seed/product3/600/600",
+    "description": "Comfortable everyday sneakers.",
+    "category": "Fashion",
+    "specs": "Breathable mesh, Rubber sole"
+  },
+  {
+    "id": 4,
+    "name": "Women's Leather Handbag",
+    "price": 89.99,
+    "image": "https://picsum.photos/seed/product4/600/600",
+    "description": "Elegant genuine leather handbag.",
+    "category": "Fashion",
+    "specs": "Genuine leather, Multiple compartments"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mechanical Keyboard",
+    "price": 99.99,
+    "image": "https://picsum.photos/seed/product5/600/600",
+    "description": "RGB backlit mechanical gaming keyboard.",
+    "category": "Electronics",
+    "specs": "Blue switches, RGB lighting"
+  },
+  {
+    "id": 6,
+    "name": "4K Ultra HD Monitor",
+    "price": 329.99,
+    "image": "https://picsum.photos/seed/product6/600/600",
+    "description": "Crystal clear 27-inch 4K display.",
+    "category": "Electronics",
+    "specs": "3840x2160, IPS Panel, 60Hz"
+  },
+  {
+    "id": 7,
+    "name": "Portable Bluetooth Speaker",
+    "price": 45.99,
+    "image": "https://picsum.photos/seed/product7/600/600",
+    "description": "Compact speaker with powerful sound.",
+    "category": "Electronics",
+    "specs": "12h playtime, Waterproof"
+  },
+  {
+    "id": 8,
+    "name": "Yoga Exercise Mat",
+    "price": 25.99,
+    "image": "https://picsum.photos/seed/product8/600/600",
+    "description": "Non-slip comfortable yoga mat.",
+    "category": "Sports",
+    "specs": "6mm thickness, Eco-friendly material"
+  },
+  {
+    "id": 9,
+    "name": "Stainless Steel Water Bottle",
+    "price": 19.99,
+    "image": "https://picsum.photos/seed/product9/600/600",
+    "description": "Keeps drinks cold for 24 hours.",
+    "category": "Home",
+    "specs": "750ml, BPA-free"
+  },
+  {
+    "id": 10,
+    "name": "DSLR Camera",
+    "price": 599.99,
+    "image": "https://picsum.photos/seed/product10/600/600",
+    "description": "Professional quality DSLR camera.",
+    "category": "Electronics",
+    "specs": "24MP, 4K Video, WiFi"
+  },
+  {
+    "id": 11,
+    "name": "Laptop Backpack",
+    "price": 39.99,
+    "image": "https://picsum.photos/seed/product11/600/600",
+    "description": "Water-resistant backpack for laptops.",
+    "category": "Accessories",
+    "specs": "Fits 15-inch laptop, USB port"
+  },
+  {
+    "id": 12,
+    "name": "Wireless Mouse",
+    "price": 24.99,
+    "image": "https://picsum.photos/seed/product12/600/600",
+    "description": "Ergonomic wireless optical mouse.",
+    "category": "Electronics",
+    "specs": "2.4GHz, Adjustable DPI"
+  },
+  {
+    "id": 13,
+    "name": "Coffee Maker Machine",
+    "price": 89.99,
+    "image": "https://picsum.photos/seed/product13/600/600",
+    "description": "Automatic drip coffee machine.",
+    "category": "Home Appliances",
+    "specs": "12-cup capacity, Timer function"
+  },
+  {
+    "id": 14,
+    "name": "Air Fryer",
+    "price": 119.99,
+    "image": "https://picsum.photos/seed/product14/600/600",
+    "description": "Healthy oil-free cooking solution.",
+    "category": "Home Appliances",
+    "specs": "5L capacity, Digital display"
+  },
+  {
+    "id": 15,
+    "name": "Smartphone Tripod",
+    "price": 29.99,
+    "image": "https://picsum.photos/seed/product15/600/600",
+    "description": "Flexible tripod for smartphones.",
+    "category": "Accessories",
+    "specs": "360° rotation, Lightweight"
+  },
+  {
+    "id": 16,
+    "name": "Electric Toothbrush",
+    "price": 49.99,
+    "image": "https://picsum.photos/seed/product16/600/600",
+    "description": "Rechargeable electric toothbrush.",
+    "category": "Personal Care",
+    "specs": "2-minute timer, Waterproof"
+  },
+  {
+    "id": 17,
+    "name": "Men's Denim Jacket",
+    "price": 69.99,
+    "image": "https://picsum.photos/seed/product17/600/600",
+    "description": "Classic blue denim jacket.",
+    "category": "Fashion",
+    "specs": "100% cotton, Regular fit"
+  },
+  {
+    "id": 18,
+    "name": "LED Desk Lamp",
+    "price": 34.99,
+    "image": "https://picsum.photos/seed/product18/600/600",
+    "description": "Adjustable brightness desk lamp.",
+    "category": "Home",
+    "specs": "Touch control, USB charging port"
+  },
+  {
+    "id": 19,
+    "name": "Gaming Chair",
+    "price": 199.99,
+    "image": "https://picsum.photos/seed/product19/600/600",
+    "description": "Ergonomic gaming chair with lumbar support.",
+    "category": "Furniture",
+    "specs": "Adjustable height, Reclining back"
+  },
+  {
+    "id": 20,
+    "name": "Tablet 10-inch",
+    "price": 249.99,
+    "image": "https://picsum.photos/seed/product20/600/600",
+    "description": "High performance 10-inch tablet.",
+    "category": "Electronics",
+    "specs": "64GB storage, 4GB RAM"
+  },
+  {
+    "id": 21,
+    "name": "Men's Running Shoes",
+    "price": 74.99,
+    "image": "https://picsum.photos/seed/product21/600/600",
+    "description": "Lightweight running shoes designed for comfort and speed.",
+    "category": "Fashion",
+    "specs": "Breathable mesh, EVA sole, Lace-up"
+  },
+  {
+    "id": 22,
+    "name": "Women's Sunglasses",
+    "price": 39.99,
+    "image": "https://picsum.photos/seed/product22/600/600",
+    "description": "Stylish UV-protected sunglasses.",
+    "category": "Accessories",
+    "specs": "UV400 protection, Polarized lenses"
+  },
+  {
+    "id": 23,
+    "name": "Wireless Earbuds",
+    "price": 59.99,
+    "image": "https://picsum.photos/seed/product23/600/600",
+    "description": "Compact true wireless earbuds with charging case.",
+    "category": "Electronics",
+    "specs": "Bluetooth 5.2, 20h battery life"
+  },
+  {
+    "id": 24,
+    "name": "Office Desk Chair",
+    "price": 149.99,
+    "image": "https://picsum.photos/seed/product24/600/600",
+    "description": "Ergonomic office chair with breathable mesh.",
+    "category": "Furniture",
+    "specs": "Adjustable height, Lumbar support"
+  },
+  {
+    "id": 25,
+    "name": "Ceramic Dinner Set",
+    "price": 89.99,
+    "image": "https://picsum.photos/seed/product25/600/600",
+    "description": "Elegant 16-piece ceramic dinnerware set.",
+    "category": "Home",
+    "specs": "Dishwasher safe, Microwave safe"
+  },
+  {
+    "id": 26,
+    "name": "Electric Kettle",
+    "price": 34.99,
+    "image": "https://picsum.photos/seed/product26/600/600",
+    "description": "Fast boiling stainless steel electric kettle.",
+    "category": "Home Appliances",
+    "specs": "1.7L capacity, Auto shut-off"
+  },
+  {
+    "id": 27,
+    "name": "Mountain Bike",
+    "price": 499.99,
+    "image": "https://picsum.photos/seed/product27/600/600",
+    "description": "Durable mountain bike for outdoor adventures.",
+    "category": "Sports",
+    "specs": "21-speed, Aluminum frame"
+  },
+  {
+    "id": 28,
+    "name": "Digital Alarm Clock",
+    "price": 19.99,
+    "image": "https://picsum.photos/seed/product28/600/600",
+    "description": "LED digital alarm clock with snooze function.",
+    "category": "Home",
+    "specs": "USB powered, Adjustable brightness"
+  },
+  {
+    "id": 29,
+    "name": "Kitchen Knife Set",
+    "price": 69.99,
+    "image": "https://picsum.photos/seed/product29/600/600",
+    "description": "Professional stainless steel kitchen knife set.",
+    "category": "Home",
+    "specs": "6-piece set, Anti-slip handles"
+  },
+  {
+    "id": 30,
+    "name": "Portable Hard Drive 1TB",
+    "price": 64.99,
+    "image": "https://picsum.photos/seed/product30/600/600",
+    "description": "Compact 1TB external storage device.",
+    "category": "Electronics",
+    "specs": "USB 3.0, Plug and play"
+  },
+  {
+    "id": 31,
+    "name": "Men's Analog Watch",
+    "price": 119.99,
+    "image": "https://picsum.photos/seed/product31/600/600",
+    "description": "Classic stainless steel analog wristwatch.",
+    "category": "Accessories",
+    "specs": "Water resistant, Quartz movement"
+  },
+  {
+    "id": 32,
+    "name": "Women's Winter Coat",
+    "price": 139.99,
+    "image": "https://picsum.photos/seed/product32/600/600",
+    "description": "Warm and stylish winter coat.",
+    "category": "Fashion",
+    "specs": "Wool blend, Button closure"
+  },
+  {
+    "id": 33,
+    "name": "Smart LED TV 55-inch",
+    "price": 699.99,
+    "image": "https://picsum.photos/seed/product33/600/600",
+    "description": "55-inch 4K Ultra HD Smart TV.",
+    "category": "Electronics",
+    "specs": "HDR, Built-in apps, WiFi"
+  },
+  {
+    "id": 34,
+    "name": "Bluetooth Car Adapter",
+    "price": 24.99,
+    "image": "https://picsum.photos/seed/product34/600/600",
+    "description": "Wireless Bluetooth adapter for car audio systems.",
+    "category": "Electronics",
+    "specs": "Hands-free calls, USB charging"
+  },
+  {
+    "id": 35,
+    "name": "Makeup Brush Set",
+    "price": 29.99,
+    "image": "https://picsum.photos/seed/product35/600/600",
+    "description": "Professional 12-piece makeup brush set.",
+    "category": "Beauty",
+    "specs": "Synthetic bristles, Travel case included"
+  },
+  {
+    "id": 36,
+    "name": "Camping Tent 4-Person",
+    "price": 159.99,
+    "image": "https://picsum.photos/seed/product36/600/600",
+    "description": "Spacious waterproof camping tent.",
+    "category": "Outdoor",
+    "specs": "Easy setup, Weather resistant"
+  },
+  {
+    "id": 37,
+    "name": "Electric Hair Dryer",
+    "price": 39.99,
+    "image": "https://picsum.photos/seed/product37/600/600",
+    "description": "Fast drying hair dryer with heat control.",
+    "category": "Personal Care",
+    "specs": "2000W power, Cool shot button"
+  },
+  {
+    "id": 38,
+    "name": "Adjustable Dumbbell Set",
+    "price": 179.99,
+    "image": "https://picsum.photos/seed/product38/600/600",
+    "description": "Space-saving adjustable dumbbells.",
+    "category": "Sports",
+    "specs": "5–50 lbs range, Steel plates"
+  },
+  {
+    "id": 39,
+    "name": "Modern Coffee Table",
+    "price": 229.99,
+    "image": "https://picsum.photos/seed/product39/600/600",
+    "description": "Minimalist wooden coffee table.",
+    "category": "Furniture",
+    "specs": "Solid wood, Easy assembly"
+  },
+  {
+    "id": 40,
+    "name": "Wireless Charging Pad",
+    "price": 27.99,
+    "image": "https://picsum.photos/seed/product40/600/600",
+    "description": "Fast wireless charging pad for smartphones.",
+    "category": "Electronics",
+    "specs": "10W fast charge, Qi-compatible"
+  }
+]
+
